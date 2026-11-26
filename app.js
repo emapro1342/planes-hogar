@@ -1,5 +1,5 @@
 const NUMERO_WHATSAPP = "573010209614";
-const NOMBRE_ASESORA = "yimirli aiskel valera";
+const NOMBRE_ASESORA = "yimirli aiskel alvarado valera";
 
 const planes = [
   {
