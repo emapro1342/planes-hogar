@@ -11,7 +11,7 @@ const planes = [
     precio: "$62.826",
     unidad: "/mes (Galaxion)",
     destacado: true,
-    imagen: "img/tigo-solo-internet.jpg",
+    imagen: "tigo-solo-internet.jpg",
     detalle: "Internet Hogar 500 Megas Tigo. Promoción Galaxion."
   },
   {
@@ -23,7 +23,7 @@ const planes = [
     precio: "$63.000",
     unidad: "COP/mes",
     destacado: true,
-    imagen: "img/tigo-movistar-fusion.jpg",
+    imagen: "tigo-movistar-fusion.jpg",
     detalle: "900 Megas de Fibra con velocidad simétrica (900 Mb/s)."
   },
   {
@@ -35,7 +35,7 @@ const planes = [
     precio: "$89.900",
     unidad: "/mes",
     destacado: true,
-    imagen: "img/tigo-full-duo.jpg",
+    imagen: "tigo-dúo-completo.jpg",
     detalle: "Internet 500 o 900 Megas + Plan Móvil Ilimitado + Paramount+."
   },
   {
@@ -47,7 +47,7 @@ const planes = [
     precio: "$109.155",
     unidad: "/mes",
     destacado: false,
-    imagen: "img/tigo-duo-internet.jpg",
+    imagen: "tigo-duo-internet.jpg",
     detalle: "Internet 500 o 900 Megas + TV Avanzada con 1 Deco."
   },
   {
@@ -59,7 +59,7 @@ const planes = [
     precio: "$119.900",
     unidad: "/mes",
     destacado: true,
-    imagen: "img/tigo-full-trio.jpg",
+    imagen: "tigo-full-trio.jpg",
     detalle: "Internet 500 o 900 Megas + TV Avanzada (1 Deco) + Plan Móvil Ilimitado + Telefonía Ilimitada + HBO Max."
   },
   {
@@ -71,7 +71,7 @@ const planes = [
     precio: "$119.900",
     unidad: "/mes",
     destacado: false,
-    imagen: "img/tigo-triple-play.jpg",
+    imagen: "tigo-triple-play.jpg",
     detalle: "Internet 500 o 900 Megas + TV Avanzada (1 Deco) + Telefonía Ilimitada."
   },
   {
@@ -83,7 +83,7 @@ const planes = [
     precio: "$79.900",
     unidad: "/mes (Inst. $52.000)",
     destacado: true,
-    imagen: "img/claro-sencillo-79.jpg",
+    imagen: "claro-sencillo-79.jpg",
     detalle: "500 Megas HFC / 900 Megas FTTH + Prime Video + Universal en Claro video. Campaña PCAM 1002 (CODA CPR6)."
   },
   {
@@ -95,7 +95,7 @@ const planes = [
     precio: "$89.900",
     unidad: "/mes (Inst. Gratis)",
     destacado: false,
-    imagen: "img/claro-sencillo-89.jpg",
+    imagen: "claro-sencillo-89.jpg",
     detalle: "500 Megas HFC / 900 Megas FTTH + 1 App (Netflix, Win Play, Prime Video, Max o Disney+) + Universal en Claro video. Campaña PCAM 1002."
   },
   {
@@ -107,7 +107,7 @@ const planes = [
     precio: "$104.900",
     unidad: "/mes (Inst. $25.000)",
     destacado: false,
-    imagen: "img/claro-doble-104.jpg",
+    imagen: "claro-doble-104.jpg",
     detalle: "Internet 500 HFC / 900 FTTH + TV Intermedia + 1 App a elegir + Universal en Claro video. Campaña PCAM 1001."
   },
   {
@@ -119,7 +119,7 @@ const planes = [
     precio: "$109.900",
     unidad: "/mes (Inst. $25.000)",
     destacado: false,
-    imagen: "img/claro-doble-109.jpg",
+    imagen: "claro-doble-109.jpg",
     detalle: "Internet 500 HFC / 900 FTTH + TV Intermedia + 1 App + McAfee + Universal en Claro video. Campaña PCAM 1001."
   },
   {
@@ -131,7 +131,7 @@ const planes = [
     precio: "$119.900",
     unidad: "/mes (Inst. $25.000)",
     destacado: true,
-    imagen: "img/claro-doble-119.jpg",
+    imagen: "claro-doble-119.jpg",
     detalle: "Internet 500 HFC / 900 FTTH + TV Intermedia + 2 Apps a elegir + McAfee + Universal en Claro video. Campaña PCAM 1001."
   },
   {
@@ -143,7 +143,7 @@ const planes = [
     precio: "$106.900",
     unidad: "/mes (Inst. $25.000)",
     destacado: false,
-    imagen: "img/claro-triple-106.jpg",
+    imagen: "claro-triple-106.jpg",
     detalle: "Internet 500 HFC / 900 FTTH + TV Intermedia + Telefonía Fija + 1 App + Universal en Claro video. Campaña PCAM 1001."
   },
   {
@@ -155,7 +155,7 @@ const planes = [
     precio: "$111.900",
     unidad: "/mes (Inst. $25.000)",
     destacado: false,
-    imagen: "img/claro-triple-111.jpg",
+    imagen: "claro-triple-111.jpg",
     detalle: "Internet 500 HFC / 900 FTTH + TV Intermedia + Telefonía Fija + 1 App + McAfee + Universal en Claro video. Campaña PCAM 1001."
   }
 ];
