@@ -27,7 +27,7 @@ const planes = [
     detalle: "900 Megas de Fibra con velocidad simétrica (900 Mb/s)."
   },
   {
-    id: "tigo-full-duo-89",
+    id: "tigo-doble-completo.jpg",
     titulo: "Full Tigo Dúo",
     operador: "Tigo",
     tipo: "Dúo",
