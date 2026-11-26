@@ -27,7 +27,7 @@ const planes = [
     detalle: "900 Megas de Fibra con velocidad simétrica (900 Mb/s)."
   },
   {
-    id: "tigo-dúo-completo.jpg",
+    id: "tigo-full-doble.jpg",
     titulo: "Full Tigo Dúo",
     operador: "Tigo",
     tipo: "Dúo",
@@ -35,7 +35,7 @@ const planes = [
     precio: "$89.900",
     unidad: "/mes",
     destacado: true,
-    imagen: "tigo-dúo-completo.jpg",
+    imagen: "tigo-full-doble.jpg",
     detalle: "Internet 500 o 900 Megas + Plan Móvil Ilimitado + Paramount+."
   },
   {
