@@ -167,7 +167,7 @@ const resenas = [
     ubicacion: "Robledo · Estrato 3",
     plan: "Full Tigo Dúo",
     estrellas: 5,
-    comentario: "Aiskiel me explicó claro el valor mensual antes de agendar y la instalación quedó lista al día siguiente. Muy buena conexión para teletrabajo."
+    comentario: "yimirli aiskel alvarado valera me explicó claro el valor mensual antes de agendar y la instalación quedó lista al día siguiente. Muy buena conexión para teletrabajo."
   },
   {
     nombre: "Carlos Andrés Hincapié",
